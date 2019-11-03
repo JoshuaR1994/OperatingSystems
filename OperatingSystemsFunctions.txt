@@ -1,0 +1,2 @@
+One major function of an operating system is to manage the main resources of the computer, such as the CPU, memory, disk drives
+and external devices. 
