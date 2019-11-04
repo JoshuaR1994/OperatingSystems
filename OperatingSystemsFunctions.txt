@@ -1,2 +1,2 @@
-One major function of an operating system is to manage the main resources of the computer, such as the CPU, memory, disk drives
-and external devices. 
+One major function of an operating system is to allow people to work with their computers through a user interface. User interfaces can either be graphical or command line based, with graphical being the norm today. Graphical UIs allow users to intreract with their computer by clicking on icons, accessing menus and other visual images. Command line interfaces are used by typing commands, and are usually used today for managing more technical matters.
+
